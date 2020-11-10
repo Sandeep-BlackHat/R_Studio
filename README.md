@@ -3,7 +3,6 @@
 
 - - - -
 # Web Scraping
-- - - -
 
 The internet is ripe with data sets that you can use for your own personal projects. Sometimes you’re lucky and you’ll have access 
 to an API where you can just directly ask for the data with R. Other times, you won’t be so lucky, and you won’t be able to get your 
